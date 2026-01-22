@@ -1,4 +1,4 @@
-# Automatic Handwrap Roller v1
+# Automatic Handwrap Roller
 복싱·킥복싱 등  격투기에서 사용하는 핸드랩을 자동으로 말아주는 전동 롤러
 
 ## 1. 개요 
@@ -117,5 +117,6 @@ Arduino IDE에서 <strong style="color:blue">'src/automaticHandwrapRoller.ino'</
 |항목|주소|
 |--|--|
 |Arduino Nano CNC Shield v4 schematic| https://www.instructables.com/How-to-Use-the-CNC-V4-Board-despite-Its-quirks/|
+
 
 
