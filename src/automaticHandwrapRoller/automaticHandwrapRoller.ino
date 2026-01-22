@@ -36,7 +36,7 @@
 void step(boolean dir, int steps, unsigned int time);
 
 void setup() {
-  
+  pinMode(DIR, OUTPUT);
   pinMode(STEP, OUTPUT);
   pinMode(EN, OUTPUT);
 
