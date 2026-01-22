@@ -110,10 +110,11 @@ Arduino IDE에서 <strong style="color:blue">'src/automaticHandwrapRoller.ino'</
 ### 시연 영상
 
 
-<video controls src="img/video.mp4" title="Title"></video>
+[![Shorts 영상](https://img.youtube.com/vi/vgZI14s2mhc/0.jpg)](https://youtube.com/shorts/vgZI14s2mhc?feature=share)
 
 
 ## 참고 자료
 |항목|주소|
 |--|--|
 |Arduino Nano CNC Shield v4 schematic| https://www.instructables.com/How-to-Use-the-CNC-V4-Board-despite-Its-quirks/|
+
