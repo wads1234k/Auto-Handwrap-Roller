@@ -63,7 +63,7 @@ Arduino IDE에서 <strong style="color:blue">'src/automaticHandwrapRoller.ino'</
 
 다음으로 소스코드에서 
 ```ino
-/*automaticHandwarpRoller.ino */
+/*automaticHandwrapRoller.ino */
 #define DIR   2 
 #define STEP  5
 #define EN    8
@@ -117,4 +117,5 @@ Arduino IDE에서 <strong style="color:blue">'src/automaticHandwrapRoller.ino'</
 |항목|주소|
 |--|--|
 |Arduino Nano CNC Shield v4 schematic| https://www.instructables.com/How-to-Use-the-CNC-V4-Board-despite-Its-quirks/|
+
 
