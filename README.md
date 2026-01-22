@@ -97,13 +97,17 @@ Arduino IDE에서 <strong style="color:blue">'src/automaticHandwrapRoller.ino'</
 ## 4. 사용법
 1. Body의 홈에 Shaft가 들어가도록 본체에 연결한다.
 <img src="img/image3.jpg" width="40%" height="40%">
+
 2. 사용 후 건조한 핸드랩을 Shaft에 끼운다. 
+
 3. 아래 사진처럼 되도록 핸드랩을 정리한다. 
 
 <img src="img/image4.jpg" width="40%px" height="40%">
 
 4. Cover를 닫고 스위치를 눌러 핸드랩을 감는다.
+
 5. 핸드랩이 다 말렸다면 스위치를 끈다. 
+
 6. Body를 분리한 후 Cover를 열고 핸드랩을 꺼낸다.
 
 
@@ -117,6 +121,7 @@ Arduino IDE에서 <strong style="color:blue">'src/automaticHandwrapRoller.ino'</
 |항목|주소|
 |--|--|
 |Arduino Nano CNC Shield v4 schematic| https://www.instructables.com/How-to-Use-the-CNC-V4-Board-despite-Its-quirks/|
+
 
 
 
