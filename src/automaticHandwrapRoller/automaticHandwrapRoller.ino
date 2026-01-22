@@ -41,7 +41,6 @@ void setup() {
   pinMode(EN, OUTPUT);
 
   pinMode(SW1, INPUT_PULLUP);
-
 }
 
 
@@ -59,7 +58,6 @@ void loop() {
   else if(digitalRead(SW1) == HIGH) {
     digitalWrite(EN, HIGH);
   }
-
 }
 
 void step(boolean dir, int steps, unsigned int time){
